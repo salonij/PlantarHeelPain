@@ -1,8 +1,10 @@
 # PlantarHeelPain
 Abstract: 
+
 The Tendinopathy Team Cohort is conducting 3T_the 10000 Tendons study that aims to build a model that can predict the outcome for plantar heel pain tendinopathy. They are using traditional methods like Linear Regression to build the model. So, we are working on other methods to see if we can build a better predictive model. To better inform decisions, we need a deeper understanding of the complex factors and their interactions that influence health at patient’s level and more effective diagnostic methods.   Machine learning has been successful in building effective diagnosis systems. This study aims to distinguish plantar heel pain with other foot problem groups by performing classification based on machine learning classification algorithm such as Random Forest. The model building process was guided by common sense reasoning and by knowledge discovered during Exploratory data analysis and definitive conclusions were drawn. Findings not only reveal that Random Forest algorithm works better with regards to performance, but it also uncovers new knowledge that is hidden in data which helps in building a more robust feature set and strengthen the classification model.
 
 About Data:
+
 The dataset that we are using in this paper are the answers to the baseline questionnaires in the trial of plantar heel pain tendinopathy and related condition group. There are total 542 patients that are in one of the three condition groups: 1) People with PHP;2) Other foot problem;3) Healthy control. Due to Data Privacy Policy of the 3T_the 10000 Tendons study , we can't share the dataset but we are sharing list of features and their description in the dataset for better understanding.
 
 Features in dataset and their description:
